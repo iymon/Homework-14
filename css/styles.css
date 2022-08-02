@@ -1053,12 +1053,15 @@ hr.hr {
 /* footer */
 
 .footer__container {
+  
 	height: 421px;
+	margin: 0 auto;
 	padding: 60px 144px;
 	background: #D3E5FE;
 }
 
 .footer__content {
+	
 	display: flex;
 }
 
